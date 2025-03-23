@@ -1,5 +1,7 @@
+```python
 import os
 
 def add(a, b):
-  c = a + k
+  c = a + b
   return c
+```
